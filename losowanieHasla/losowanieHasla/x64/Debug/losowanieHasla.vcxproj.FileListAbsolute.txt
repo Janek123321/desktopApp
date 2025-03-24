@@ -1,0 +1,3 @@
+C:\Users\Janek\source\repos\losowanieHasla\losowanieHasla\x64\Debug\losowanieHasla.vcxproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\losowanieHasla\losowanieHasla\x64\Debug\losowanieHasla.MyForm.resources
+C:\Users\Janek\source\repos\losowanieHasla\losowanieHasla\x64\Debug\losowanieHasla.vcxproj.GenerateResource.cache

@@ -1,0 +1,3 @@
+C:\Users\Janek\source\repos\odciskPalca\odciskPalca\x64\Debug\odciskPalca.vcxproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\odciskPalca\odciskPalca\x64\Debug\odciskPalca.MyForm.resources
+C:\Users\Janek\source\repos\odciskPalca\odciskPalca\x64\Debug\odciskPalca.vcxproj.GenerateResource.cache

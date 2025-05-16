@@ -1,0 +1,3 @@
+C:\Users\Janek\source\repos\Eventy\Eventy\x64\Debug\Eventy.vcxproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\Eventy\Eventy\x64\Debug\Eventy.MyForm.resources
+C:\Users\Janek\source\repos\Eventy\Eventy\x64\Debug\Eventy.vcxproj.GenerateResource.cache

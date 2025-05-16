@@ -1,3 +1,6 @@
 C:\Users\Janek\source\repos\MojeDzwieki\MojeDzwieki\x64\Debug\MojeDzwieki.vcxproj.AssemblyReference.cache
 C:\Users\Janek\source\repos\MojeDzwieki\MojeDzwieki\x64\Debug\MojeDzwieki.MyForm.resources
 C:\Users\Janek\source\repos\MojeDzwieki\MojeDzwieki\x64\Debug\MojeDzwieki.vcxproj.GenerateResource.cache
+C:\Users\Janek\Desktop\desctopProjectJanP\MojeDzwieki\MojeDzwieki\x64\Debug\MojeDzwieki.vcxproj.AssemblyReference.cache
+C:\Users\Janek\Desktop\desctopProjectJanP\MojeDzwieki\MojeDzwieki\x64\Debug\MojeDzwieki.MyForm.resources
+C:\Users\Janek\Desktop\desctopProjectJanP\MojeDzwieki\MojeDzwieki\x64\Debug\MojeDzwieki.vcxproj.GenerateResource.cache

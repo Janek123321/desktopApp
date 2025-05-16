@@ -95,7 +95,7 @@ namespace MojeDzwieki {
 			// pictureBox2
 			// 
 			this->pictureBox2->Image = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"pictureBox2.Image")));
-			this->pictureBox2->Location = System::Drawing::Point(1320, 144);
+			this->pictureBox2->Location = System::Drawing::Point(1549, 141);
 			this->pictureBox2->Margin = System::Windows::Forms::Padding(4, 5, 4, 5);
 			this->pictureBox2->Name = L"pictureBox2";
 			this->pictureBox2->Size = System::Drawing::Size(96, 70);
@@ -186,7 +186,7 @@ namespace MojeDzwieki {
 			this->button1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 20.25F, System::Drawing::FontStyle::Bold, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(238)));
 			this->button1->ForeColor = System::Drawing::SystemColors::ControlText;
-			this->button1->Location = System::Drawing::Point(465, 331);
+			this->button1->Location = System::Drawing::Point(526, 328);
 			this->button1->Margin = System::Windows::Forms::Padding(4, 5, 4, 5);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(184, 69);
@@ -200,7 +200,7 @@ namespace MojeDzwieki {
 			this->AutoScaleDimensions = System::Drawing::SizeF(9, 20);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->BackColor = System::Drawing::Color::SeaGreen;
-			this->ClientSize = System::Drawing::Size(1540, 504);
+			this->ClientSize = System::Drawing::Size(1725, 522);
 			this->Controls->Add(this->button1);
 			this->Controls->Add(this->label4);
 			this->Controls->Add(this->label3);
@@ -211,8 +211,9 @@ namespace MojeDzwieki {
 			this->Controls->Add(this->pictureBox2);
 			this->Controls->Add(this->pictureBox1);
 			this->Margin = System::Windows::Forms::Padding(4, 5, 4, 5);
+			this->MinimumSize = System::Drawing::Size(1740, 560);
 			this->Name = L"MyForm";
-			this->Text = L"MojeD?wieki Wykona?: 00000000000";
+			this->Text = L"MojeD\?wieki Wykona\?: 00000000000";
 			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox2))->EndInit();
@@ -233,7 +234,7 @@ namespace MojeDzwieki {
 		List<Album^>^ albums = gcnew List<Album^>();;
 		int currentIndex = 0;
 		void LoadSong() {
-			StreamReader^ plik = gcnew StreamReader("C:\\Users\\Janek\\Desktop\\Data.txt");
+			StreamReader^ plik = gcnew StreamReader("Data.txt");
 			while (!plik->EndOfStream) {
 				Album^ album = gcnew Album();
 				album->artist = plik->ReadLine();

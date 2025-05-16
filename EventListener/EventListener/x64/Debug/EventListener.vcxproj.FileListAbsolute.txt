@@ -1,0 +1,3 @@
+C:\Users\Janek\source\repos\EventListener\EventListener\x64\Debug\EventListener.vcxproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\EventListener\EventListener\x64\Debug\EventListener.MainForm.resources
+C:\Users\Janek\source\repos\EventListener\EventListener\x64\Debug\EventListener.vcxproj.GenerateResource.cache

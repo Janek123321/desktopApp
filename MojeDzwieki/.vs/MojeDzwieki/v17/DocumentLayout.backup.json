@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\",
+  "WorkspaceRootPath": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{146DDA70-EBE1-9560-4872-4D58895D5F05}|MojeDzwieki\\MojeDzwieki.vcxproj|C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\MojeDzwieki\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "AbsoluteMoniker": "D:0:0:{146DDA70-EBE1-9560-4872-4D58895D5F05}|MojeDzwieki\\MojeDzwieki.vcxproj|C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\MojeDzwieki\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{146DDA70-EBE1-9560-4872-4D58895D5F05}|MojeDzwieki\\MojeDzwieki.vcxproj|solutionrelative:MojeDzwieki\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{146DDA70-EBE1-9560-4872-4D58895D5F05}|MojeDzwieki\\MojeDzwieki.vcxproj|C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\MojeDzwieki\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{146DDA70-EBE1-9560-4872-4D58895D5F05}|MojeDzwieki\\MojeDzwieki.vcxproj|C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\MojeDzwieki\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{146DDA70-EBE1-9560-4872-4D58895D5F05}|MojeDzwieki\\MojeDzwieki.vcxproj|solutionrelative:MojeDzwieki\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{146DDA70-EBE1-9560-4872-4D58895D5F05}|MojeDzwieki\\MojeDzwieki.vcxproj|C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\MojeDzwieki\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{146DDA70-EBE1-9560-4872-4D58895D5F05}|MojeDzwieki\\MojeDzwieki.vcxproj|C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\MojeDzwieki\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{146DDA70-EBE1-9560-4872-4D58895D5F05}|MojeDzwieki\\MojeDzwieki.vcxproj|solutionrelative:MojeDzwieki\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -52,21 +52,21 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MyForm.h [Design]",
-              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\MojeDzwieki\\MyForm.h",
+              "DocumentMoniker": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\MojeDzwieki\\MyForm.h",
               "RelativeDocumentMoniker": "MojeDzwieki\\MyForm.h",
-              "ToolTip": "C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\MojeDzwieki\\MyForm.h [Design]*",
+              "ToolTip": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\MojeDzwieki\\MyForm.h [Design]*",
               "RelativeToolTip": "MojeDzwieki\\MyForm.h [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-24T11:19:44.308Z",
+              "WhenOpened": "2025-03-24T12:33:57.073Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MyForm.cpp",
-              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\MojeDzwieki\\MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\MojeDzwieki\\MyForm.cpp",
               "RelativeDocumentMoniker": "MojeDzwieki\\MyForm.cpp",
-              "ToolTip": "C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\MojeDzwieki\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\MojeDzwieki\\MyForm.cpp",
               "RelativeToolTip": "MojeDzwieki\\MyForm.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -77,11 +77,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MyForm.h",
-              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\MojeDzwieki\\MyForm.h",
+              "DocumentMoniker": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\MojeDzwieki\\MyForm.h",
               "RelativeDocumentMoniker": "MojeDzwieki\\MyForm.h",
-              "ToolTip": "C:\\Users\\Janek\\source\\repos\\MojeDzwieki\\MojeDzwieki\\MyForm.h*",
+              "ToolTip": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\MojeDzwieki\\MojeDzwieki\\MyForm.h*",
               "RelativeToolTip": "MojeDzwieki\\MyForm.h*",
-              "ViewState": "AgIAAAIBAAAAAAAAAAAawBMBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAawOwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-19T12:40:47.477Z",
               "EditorCaption": ""

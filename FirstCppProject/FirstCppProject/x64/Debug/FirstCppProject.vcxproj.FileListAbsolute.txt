@@ -1,0 +1,3 @@
+C:\Users\Janek\source\repos\FirstCppProject\FirstCppProject\x64\Debug\FirstCppProject.vcxproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\FirstCppProject\FirstCppProject\x64\Debug\FirstCppProject.MainForm.resources
+C:\Users\Janek\source\repos\FirstCppProject\FirstCppProject\x64\Debug\FirstCppProject.vcxproj.GenerateResource.cache

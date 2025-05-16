@@ -1,3 +1,6 @@
 C:\Users\Janek\source\repos\koperta\koperta\x64\Debug\koperta.vcxproj.AssemblyReference.cache
 C:\Users\Janek\source\repos\koperta\koperta\x64\Debug\koperta.MyForm.resources
 C:\Users\Janek\source\repos\koperta\koperta\x64\Debug\koperta.vcxproj.GenerateResource.cache
+C:\Users\Janek\Desktop\desctopProjectJanP\koperta\koperta\x64\Debug\koperta.vcxproj.AssemblyReference.cache
+C:\Users\Janek\Desktop\desctopProjectJanP\koperta\koperta\x64\Debug\koperta.MyForm.resources
+C:\Users\Janek\Desktop\desctopProjectJanP\koperta\koperta\x64\Debug\koperta.vcxproj.GenerateResource.cache

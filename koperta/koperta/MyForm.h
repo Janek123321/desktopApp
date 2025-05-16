@@ -261,17 +261,17 @@ namespace koperta {
 private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
 	if (radioButton1->Checked == true)
 	{
-		pictureBox1->Image = Image::FromFile("C:\\Users\\Janek\\source\\repos\\pocztowka.png");
+		pictureBox1->ImageLocation = "pocztowka.png";
 		label4->Text = "Cena: 1z³";
 	}
 	else if (radioButton2->Checked == true)
 	{
-		pictureBox1->Image = Image::FromFile("C:\\Users\\Janek\\source\\repos\\list.png");
+		pictureBox1->Image = Image::FromFile("list.png");
 		label4->Text = "Cena: 1,5z³";
 	}
 	if (radioButton3->Checked == true)
 	{
-		pictureBox1->Image = Image::FromFile("C:\\Users\\Janek\\source\\repos\\paczka.png");
+		pictureBox1->Image = Image::FromFile("paczka.png");
 		label4->Text = "Cena: 10z³";
 	}
 }

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Janek\\source\\repos\\koperta\\",
+  "WorkspaceRootPath": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|C:\\Users\\Janek\\source\\repos\\koperta\\koperta\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|solutionrelative:koperta\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+      "AbsoluteMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\koperta\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|solutionrelative:koperta\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|C:\\Users\\Janek\\source\\repos\\koperta\\koperta\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\koperta\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|solutionrelative:koperta\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|C:\\Users\\Janek\\source\\repos\\koperta\\koperta\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|solutionrelative:koperta\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\koperta\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{F1A9C3BD-07ED-3ED5-CAB2-D0B2FB9C437A}|koperta\\koperta.vcxproj|solutionrelative:koperta\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,41 +50,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyForm.cpp",
-              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\koperta\\koperta\\MyForm.cpp",
-              "RelativeDocumentMoniker": "koperta\\MyForm.cpp",
-              "ToolTip": "C:\\Users\\Janek\\source\\repos\\koperta\\koperta\\MyForm.cpp",
-              "RelativeToolTip": "koperta\\MyForm.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T11:29:57.024Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "MyForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\koperta\\MyForm.h",
+              "RelativeDocumentMoniker": "koperta\\MyForm.h",
+              "ToolTip": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\koperta\\MyForm.h [Design]",
+              "RelativeToolTip": "koperta\\MyForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T12:30:30.994Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyForm.h",
-              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\koperta\\koperta\\MyForm.h",
-              "RelativeDocumentMoniker": "koperta\\MyForm.h",
-              "ToolTip": "C:\\Users\\Janek\\source\\repos\\koperta\\koperta\\MyForm.h",
-              "RelativeToolTip": "koperta\\MyForm.h",
-              "ViewState": "AgIAAAEBAAAAAAAAAAAhwBEBAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-14T11:29:54.829Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\koperta\\MyForm.cpp",
+              "RelativeDocumentMoniker": "koperta\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\koperta\\MyForm.cpp",
+              "RelativeToolTip": "koperta\\MyForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T11:29:57.024Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyForm.h [Design]",
-              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\koperta\\koperta\\MyForm.h",
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\koperta\\MyForm.h",
               "RelativeDocumentMoniker": "koperta\\MyForm.h",
-              "ToolTip": "C:\\Users\\Janek\\source\\repos\\koperta\\koperta\\MyForm.h [Design]",
-              "RelativeToolTip": "koperta\\MyForm.h [Design]",
+              "ToolTip": "C:\\Users\\Janek\\Desktop\\desctopProjectJanP\\koperta\\koperta\\MyForm.h",
+              "RelativeToolTip": "koperta\\MyForm.h",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAawA0BAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-14T11:29:46.365Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-14T11:29:54.829Z",
+              "EditorCaption": ""
             }
           ]
         }

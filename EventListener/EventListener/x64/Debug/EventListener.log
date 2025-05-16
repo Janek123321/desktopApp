@@ -1,0 +1,4 @@
+﻿  MainForm.cpp
+C:\Users\Janek\source\repos\EventListener\EventListener\MainForm.cpp(9,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  EventListener.vcxproj -> C:\Users\Janek\source\repos\EventListener\x64\Debug\EventListener.exe

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Janek\\source\\repos\\FirstCppProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBB269B-BFDE-40DC-BDE9-973214B9D0A8}|FirstCppProject\\FirstCppProject.vcxproj|C:\\Users\\Janek\\source\\repos\\FirstCppProject\\FirstCppProject\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDBB269B-BFDE-40DC-BDE9-973214B9D0A8}|FirstCppProject\\FirstCppProject.vcxproj|solutionrelative:FirstCppProject\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBB269B-BFDE-40DC-BDE9-973214B9D0A8}|FirstCppProject\\FirstCppProject.vcxproj|C:\\Users\\Janek\\source\\repos\\FirstCppProject\\FirstCppProject\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{EDBB269B-BFDE-40DC-BDE9-973214B9D0A8}|FirstCppProject\\FirstCppProject.vcxproj|solutionrelative:FirstCppProject\\MainForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBB269B-BFDE-40DC-BDE9-973214B9D0A8}|FirstCppProject\\FirstCppProject.vcxproj|C:\\Users\\Janek\\source\\repos\\FirstCppProject\\FirstCppProject\\MainForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDBB269B-BFDE-40DC-BDE9-973214B9D0A8}|FirstCppProject\\FirstCppProject.vcxproj|solutionrelative:FirstCppProject\\MainForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\FirstCppProject\\FirstCppProject\\MainForm.h",
+              "RelativeDocumentMoniker": "FirstCppProject\\MainForm.h",
+              "ToolTip": "C:\\Users\\Janek\\source\\repos\\FirstCppProject\\FirstCppProject\\MainForm.h [Design]",
+              "RelativeToolTip": "FirstCppProject\\MainForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-03T11:41:33.692Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cpp",
+              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\FirstCppProject\\FirstCppProject\\MainForm.cpp",
+              "RelativeDocumentMoniker": "FirstCppProject\\MainForm.cpp",
+              "ToolTip": "C:\\Users\\Janek\\source\\repos\\FirstCppProject\\FirstCppProject\\MainForm.cpp",
+              "RelativeToolTip": "FirstCppProject\\MainForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T07:42:48.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.h",
+              "DocumentMoniker": "C:\\Users\\Janek\\source\\repos\\FirstCppProject\\FirstCppProject\\MainForm.h",
+              "RelativeDocumentMoniker": "FirstCppProject\\MainForm.h",
+              "ToolTip": "C:\\Users\\Janek\\source\\repos\\FirstCppProject\\FirstCppProject\\MainForm.h",
+              "RelativeToolTip": "FirstCppProject\\MainForm.h",
+              "ViewState": "AgIAALYAAAAAAAAAAAAjwL4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-03T07:11:31.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
